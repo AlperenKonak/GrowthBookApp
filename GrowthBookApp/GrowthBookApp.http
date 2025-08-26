@@ -1,0 +1,6 @@
+@GrowthBookApp_HostAddress = http://localhost:5110
+
+GET {{GrowthBookApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
